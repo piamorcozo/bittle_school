@@ -1,0 +1,10 @@
+Good day! Please unzip the Bittle_Schoo.zip and put it in xampp/htdocs folder. 
+
+Add a new database in MySQL named "bittle_school" and import the bittle_school.sql file. 
+
+The following features of the system are as follows:
+- Users can't register if the username already exists
+- Validation in the register page for teachers and students where the passwords must match before proceeding
+- For this system, I just put static subjects for demonstration. Subjects that are already assigned to one teacher can't be assigned to another teacher. Since as per instruction, the students only belong to one section. 
+
+Thank you so much! If you have any question, please do not hesitate to email me. 
